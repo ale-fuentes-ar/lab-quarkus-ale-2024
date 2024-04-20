@@ -1,8 +1,6 @@
 # Hands-On |  LAB Quarkus 2024
-<img src="https://img.shields.io/badge/by-Alejandro.Fuentes-informational?style=for-the-badge&logoColor=white&color=cdcdcd" alt="" />
-<img src="https://img.shields.io/badge/tutor-Thiago.Poiani_[thpoiani]-informational?style=for-the-badge&logoColor=white&color=cdcdcd" alt="" />
+<img src="https://img.shields.io/badge/by-Alejandro.Fuentes-informational?style=for-the-badge&logoColor=white&color=cdcdcd" alt="" /> <img src="https://img.shields.io/badge/tutor-Thiago.Poiani_[thpoiani]-informational?style=for-the-badge&logoColor=white&color=cdcdcd" alt="" />
 
-<br>
 <img src="https://img.shields.io/badge/quarkus-%23316192.svg?style=flat-square&logo=quarkus&logoColor=white" />
 
 ## Project
